@@ -1,0 +1,49 @@
+
+input
+{
+    background: grey;
+}
+
+.camplife_main
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.camplife_main img
+{
+  width: 50%;
+}
+
+.camplife_main hr
+{
+    width: 230px; 
+}
+
+.camplife_main h5 , .camplife_main p
+{
+margin-left: 20px;
+}
+
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
